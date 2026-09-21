@@ -1,5 +1,7 @@
 # Arquitectura de MCP:
 
+[Volver al README principal](../README.md)
+
 ## Modelo Host / Cliente / Servidor:
 Los participantes son quienes hacen posible una conexión entre uno o más servidores MCP.
 - El HOST MCP: Es la aplicación IA que coordina y maneja multiples clientes. 
