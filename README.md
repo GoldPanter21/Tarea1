@@ -20,7 +20,7 @@ Ahora, aunque se busque implementarlo y aplicarlo realmente, la finalidad real e
 
 ## Instrucciones de Instalación
 **Entorno de Ejecución**
-* Sistema Operativo: [Tu SO]
+* Sistema Operativo: Windows 11 Home Single Language
 * Versiones utilizadas: [Versión de tu cliente, Node/Python, etc.]
 * Cliente elegido y justificación: [Escribe aquí qué cliente elegiste y por qué]
 

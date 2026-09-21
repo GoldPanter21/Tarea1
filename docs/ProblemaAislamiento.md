@@ -1,5 +1,7 @@
 # Problema del Aislamiento
  
+[Volver al README principal](../README.md)
+
 ## ¿Por qué una LLM no puede acceder a un sistema?:
 Un LLM es un algoritmo de generación de texto, no de ejecución, incluso revisnaod las herramientas de Antropic para la implementación de Claude a herramientas externas o API´s (mediante Tools), el LLM simplemente recibe cómo parametros lo que se quiere contestar, no realmente accede al sistema, solo conectan la función de generación mediante una petición incluso limitando el uso de tokens. Con esto explicado, los LLm son modelos en una estructura en la nube, no dentro del sistema de ejecución donde se está llamando, por lo que le falta incluso el contexto y así se reduce a que la entrada y salida, son texto.
 
